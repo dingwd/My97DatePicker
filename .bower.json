@@ -1,0 +1,15 @@
+{
+    "name": "My97DatePicker",
+    "homepage": "https://github.com/dingwd/My97DatePicker",
+    "version": "4.8.0",
+    "_release": "4.8.0",
+    "_resolution": {
+        "type": "version",
+        "tag": "v4.8.0",
+        "commit": "5c8f9f211bc855dd6c2cedcab557783d2a9a1513"
+    },
+    "_source": "https://github.com/dingwd/My97DatePicker.git",
+    "_target": "^4.8.0",
+    "_originalSource": "https://github.com/dingwd/My97DatePicker.git",
+    "_direct": true
+}
